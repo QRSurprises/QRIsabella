@@ -1,6 +1,6 @@
-# QR_SURPRISES - QR_Jhosfer 🟡
+# QR_SURPRISES - QR_Isabella 🟡
 
-Proyect from Jhosfer by [@QR_Surprises](https://instagram.com/QR_Surprises) ⚠️.
+Proyect from Isabella by [@QR_Surprises](https://instagram.com/QR_Surprises) ⚠️.
 
 By [Simón Bustamante Alzate](https://instagram.com/simonba97)
 
