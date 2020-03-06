@@ -8,7 +8,7 @@
          Host: "smtp.gmail.com",
          Username: _ma,
          Password: _ps,
-         To: 'simonba97@gmail.com',
+         To: ['simonba97@gmail.com', 'samartinezme@gmail.com'],
          From: _ma,
          Subject: "Notificación de lectura de pista",
          Body: baseMailFactura.replace('{{numPista}}', _numPista),
